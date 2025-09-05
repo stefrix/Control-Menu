@@ -1,31 +1,17 @@
 # Control-Panel
 
-#########################################################################
-     ______            __             __     __  ___                
-    / ____/___  ____  / /__________  / /    /  \/  /__  ____  __  __
-   / /   / __ \/ __ \/ __/ ___/ __ \/ /    / /\_/ / _ \/ __ \/ / / /
-  / /___/ /_/ / / / / /_/ /  / /_/ / /    / /  / /  __/ / / / /_/ / 
-  \____/\____/_/ /_/\__/_/   \____/_/    /_/  /_/\___/_/ /_/\__,_/                        
-
-#########################################################################
 Control-Panel by stefrix
 
 A basic Control Panel wrote in batch script with Notepad++ and Nvim
 With this "tool" you can manage different basic windows task like running some programs, opening site or find interesting information about your system
 It's actually pretty useless, but it do his job
 
-
-#########################################################################          
-                  __   _____ _ __ ___ _  ___  _ __  
-                  \ \ / / _ \ '__/ __| |/ _ \| '_ \ 
-                   \ V /  __/ |  \__ \ | (_) | | | |
-                    \_/ \___|_|  |___/_|\___/|_| |_|
-                                   
-#########################################################################
+_________________________________________________________________________
                                    
 version: 1.0    release: idk
 Is currently in developing, i don't really know when it will come out
 
+_________________________________________________________________________
 
 To install and use it, simply download the "Control-Panel.bat" 
 
