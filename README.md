@@ -1,25 +1,38 @@
-# Control-Panel
+# 🖥️ Control-Panel
 
-Control-Panel by stefrix
-
-A basic Control Panel wrote in batch script with Notepad++ and Nvim
-With this "tool" you can manage different basic windows task like running some programs, opening site or find interesting information about your system
-It's actually pretty useless, but it do his job
-
-_________________________________________________________________________
-                                   
-version: 1.0    release: idk
-Is currently in developing, i don't really know when it will come out
-
-_________________________________________________________________________
-
-To install and use it, simply download the "Control-Panel.bat" 
+> A *totaly usefull* (or not) Control Panel written in Batch Script by **Stefrix and Scalamobile**
 
 
-The minimun requirment are:
-electricity: to at least boot your computer
-OS: windows 1.0 at least (probably it can crash on win11)
-Processors: a potato is enough (if it have windows installed on you're good to go)
-Graphic card: you don't need one if you have integrated processor or even if you haven't it either, it's bare text on the terminal
-memory: at least 8kb of Ram but i'm not sure
-memory: something like 8kb? i need to finish it...
+
+## 📌 Overview  
+Control-Panel is a batch script created with **Notepad++** and **Neovim**.  
+With this "tool" you can:  
+- Launch programs  
+- Open websites  
+- Get basic system information  
+
+It won’t perform miracles… but at least it does its job 😅  
+
+
+## 🚀 Version  
+- **Version:** `1.0`
+- **Release:** `Idk :/`
+- **Status**: *still in development* 🛠️ (no idea when it will be released)  
+## ⚡ Installation 
+To use it, simply:  
+    1. Download 👉 `Control-Panel.bat`  
+    2. Double-click to run it  
+
+
+
+## 📋 Minimum Requirements  
+- ⚡ **Electricity:** at least enough to boot your PC  
+- 🪟 **Operating System:** should work to Windows 1.0 or higher  
+  > (might crash on Windows 11 🤷‍♂️)  
+- 🥔 **Processor:** a potato should work fine, as long as Windows runs on it  
+- 🎨 **Graphics Card:** not needed (it’s just plain terminal text)  
+- 💾 **Memory:** at least **8 KB of RAM and a yogurt** (probably?)  
+
+### 🤔 Notes 
+This project was made for fun, don't take it too seriusly.
+Buy hey if it works... even better!
