@@ -1,11 +1,11 @@
-# 🖥️ Control-Panel  
+# 🖥️ Control-Menu  
 
-> A *totally useful* (or not) Control Panel written in Batch Script by **stefrix and Scalamobile :3**  
+> A *totally useful* (or not) Control Menu written in Batch Script by **stefrix and Scalamobile :3**  
 
 ---
 
 ## 📌 Overview  
-Control-Panel is a **basic Control Panel** written in batch script with **Notepad++** and **Neovim**.  
+Control-Menu is a **basic Control Panel** written in batch script with **Notepad++** and **Neovim**.  
 
 It works as a **custom app launcher** with integrated launch support for:  
 - Steam 🎮  
@@ -32,7 +32,7 @@ You can also use it for:
 
 ## ⚡ Installation  
 To use it, simply:  
-    1. Download 👉 `Control-Panel.bat`  
+    1. Download 👉 `Control-Menu.bat`  
     2. Double-click to run it  
 
 ---
