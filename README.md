@@ -39,7 +39,7 @@ To use it, simply:
 
 ## 📋 Minimum Requirements  
 - ⚡ **Electricity:** at least enough to boot your PC  
-- 🪟 **Operating System:** should work to Windows 1.0 or higher... might crash on Windows 11 🤷‍♂️
+- 🪟 **Operating System:** should work on Windows 1.0 and higher... might crash on Windows 11 🤷‍♂️ (maybe even on MS DOS)
 - 🥔 **Processor:** a potato is fine, as long as it runs Windows  
 - 🎨 **Graphics Card:** not required (it’s just plain terminal text)  
 - 💾 **RAM:** at least **8 KB and a yogurt** (probably?)  
